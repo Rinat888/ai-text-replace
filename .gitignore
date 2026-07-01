@@ -1,0 +1,24 @@
+# Ключи API — никогда не коммитить
+.env
+
+# Временные файлы скрипта
+_clipboard_temp.txt
+_clipboard_get_temp.txt
+
+# Логи
+ai_replace.log
+ai_replace.log.bak
+ai_replace_*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Системное
+Thumbs.db
+Desktop.ini
